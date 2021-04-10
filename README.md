@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trivia
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
@@ -28,3 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # trivia
 # trivia
 # trivia
+=======
+# trivia
+>>>>>>> c1d1204f9002cbf07db0173982511b62425785e2
